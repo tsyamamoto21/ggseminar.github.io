@@ -1,1 +1,3 @@
 # Vote
+
+[HOME](../index.md)
